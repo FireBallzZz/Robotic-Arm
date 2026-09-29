@@ -1,7 +1,7 @@
 #  Robotic Arm
 
 An Arduino-based robotic arm designed to perform precise object manipulation using multiple servo motors. This project demonstrates embedded systems, robotics, and motion control concepts.
-
+You can watch a demonstration video from here : https://youtu.be/Jnjv0Ucp3eY
 ##  Features
 
 - Multi-axis robotic arm movement
